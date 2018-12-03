@@ -28,7 +28,11 @@ def executeCoref(sentenceCount, targetTextPath, outputFilePath):
     sentences = nltk.sent_tokenize(content)
 
     current_paragraph_sentences = []
+
     for index in range(len(sentences)):
+        if index % 25 == 0:
+            print('Sentences done: %d of %d' % (index, len(sentences)))
+
         current_paragraph_sentences.append(sentences[index])
         if (len(current_paragraph_sentences) == sentenceCount or len(sentences)-1==index):
             paragraph = " ".join(current_paragraph_sentences)
@@ -52,6 +56,7 @@ def trainModelAndSave(filePath, outputFilePath):
 #model = trainModelAndSave('./hp_4_sentences_split.txt')
 #model.wv.save_word2vec_format("./digitalhumanities_dataset_and_eval/models/hp_4_sentences_split.model", binary=False)
 
-preprocessFile('./book_combined_sentences.txt','hp_preprocessed.txt')
-executeCoref(4, './hp_preprocessed.txt', 'hp_corefed.txt')
+BOOK = '/tmp/soiaf4books.txt' 
+preprocessFile(BOOK, BOOK+'prep.txt')
+executeCoref(4, BOOK+'prep.txt', BOOK+'_corefed.txt')
 trainModelAndSave('./hp_corefed.txt', './digitalhumanities_dataset_and_eval/models/hp_corefed.model')
