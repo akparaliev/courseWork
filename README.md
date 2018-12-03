@@ -15,7 +15,7 @@
 ## run doesn't match or analogies script
 - clone this repo: https://github.com/gwohlgen/digitalhumanities_dataset_and_eval/
 - put model to models folder
-- and scripts from src folder
+- and run scripts from src folder
 
 ## ERRORS:
 - executing hp books txt with 1 or 4 sentences in paragraph is OK
