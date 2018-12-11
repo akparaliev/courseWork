@@ -17,6 +17,6 @@
 - put model to models folder
 - and run scripts from src folder
 
-## ERRORS:
-- executing hp books txt with 1 or 4 sentences in paragraph is OK
-- executing asoif books txt with 4 sentences causes MemoryError on of the internal scripts of spacy.
+##  Results:
+- results in folder 'results'
+- w2v training settings: cbow_mean=0, min_count=5, size=300, window=5, negative=0, hs=1, sample=0.001, workers=12
