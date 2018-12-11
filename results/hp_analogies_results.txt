@@ -1,0 +1,207 @@
+**** Model: hp_corefed  binary?: False
+**** Model: hp_corefed  LOADED
+
+
+analogies_evaluation.py:25: DeprecationWarning: Call to deprecated `accuracy` (Method will be removed in 4.0.0, use self.evaluate_word_analogies() instead).
+  acc_res = model.accuracy(ANALOGIES_FILE)
+C:\Users\247434\AppData\Local\Programs\Python\Python37-32\lib\site-packages\gensim\matutils.py:737: FutureWarning: Conversion of the second argument of issubdty
+pe from `int` to `np.signedinteger` is deprecated. In future, it will be treated as `np.int32 == np.dtype(int).type`.
+  if np.issubdtype(vec.dtype, np.int):
+
+        Section: firstname-lastname
+
+        Section: child-father
+
+        Section: child-mother
+
+        Section: husband-wife
+
+        Section: pets-of-Hagrid
+
+        Section: wizard_animagus-animal
+
+        Section: wizard-wand_wood
+
+        Section: faculty-element
+
+        Section: faculty-animal
+
+        Section: founder-faculty
+
+        Section: faculty_first_color-second_color
+
+        Section: Yule_ball-gentleman-lady
+
+        Section: wizard-country
+
+        Section: wizard-patronal_form
+
+        Section: name-house
+
+        Section: shortname-fullname
+
+        Section: name-species
+
+        Section: total
+{'Yule_ball-gentleman-lady': {'correct': 1,
+                              'counts': '20',
+                              'incorrect': 19,
+                              'perc': 0.05},
+ 'child-father': {'correct': 15,
+                  'counts': '224',
+                  'incorrect': 209,
+                  'perc': 0.06696428571428571},
+ 'child-mother': {'correct': 0, 'counts': '68', 'incorrect': 68, 'perc': 0.0},
+ 'faculty-animal': {'correct': 0, 'counts': '12', 'incorrect': 12, 'perc': 0.0},
+ 'faculty-element': {'correct': 0,
+                     'counts': '12',
+                     'incorrect': 12,
+                     'perc': 0.0},
+ 'faculty_first_color-second_color': {'correct': 2,
+                                      'counts': '12',
+                                      'incorrect': 10,
+                                      'perc': 0.16666666666666666},
+ 'firstname-lastname': {'correct': 163,
+                        'counts': '2390',
+                        'incorrect': 2227,
+                        'perc': 0.06820083682008368},
+ 'founder-faculty': {'correct': 2,
+                     'counts': '6',
+                     'incorrect': 4,
+                     'perc': 0.3333333333333333},
+ 'husband-wife': {'correct': 17,
+                  'counts': '72',
+                  'incorrect': 55,
+                  'perc': 0.2361111111111111},
+ 'name-house': {'correct': 307,
+                'counts': '1364',
+                'incorrect': 1057,
+                'perc': 0.2250733137829912},
+ 'name-species': {'correct': 29,
+                  'counts': '566',
+                  'incorrect': 537,
+                  'perc': 0.05123674911660778},
+ 'pets-of-Hagrid': {'correct': 0, 'counts': '18', 'incorrect': 18, 'perc': 0.0},
+ 'shortname-fullname': {'correct': 0,
+                        'counts': '2',
+                        'incorrect': 2,
+                        'perc': 0.0},
+ 'total': {'correct': 536,
+           'counts': '4786',
+           'incorrect': 4250,
+           'perc': 0.11199331383201003},
+ 'wizard-country': {'correct': 0, 'counts': '2', 'incorrect': 2, 'perc': 0.0},
+ 'wizard-patronal_form': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'wizard-wand_wood': {'correct': 0, 'counts': '6', 'incorrect': 6, 'perc': 0.0},
+ 'wizard_animagus-animal': {'correct': 0,
+                            'counts': '6',
+                            'incorrect': 6,
+                            'perc': 0.0}}
+Number of sections: 17
+Number of tasks:       & 2390 & 224 & 72 & 566 & 4786  \\ \hline
+hp_corefed                &  6.82 & 6.7 & 23.61 & 5.12 & 11.2  \\
+
+
+**** Model: hp_preprocessed  binary?: False
+**** Model: hp_preprocessed  LOADED
+
+
+
+        Section: firstname-lastname
+
+        Section: child-father
+
+        Section: child-mother
+
+        Section: husband-wife
+
+        Section: pets-of-Hagrid
+
+        Section: wizard_animagus-animal
+
+        Section: wizard-wand_wood
+
+        Section: faculty-element
+
+        Section: faculty-animal
+
+        Section: founder-faculty
+
+        Section: faculty_first_color-second_color
+
+        Section: Yule_ball-gentleman-lady
+
+        Section: wizard-country
+
+        Section: wizard-patronal_form
+
+        Section: name-house
+
+        Section: shortname-fullname
+
+        Section: name-species
+
+        Section: total
+{'Yule_ball-gentleman-lady': {'correct': 2,
+                              'counts': '20',
+                              'incorrect': 18,
+                              'perc': 0.1},
+ 'child-father': {'correct': 20,
+                  'counts': '224',
+                  'incorrect': 204,
+                  'perc': 0.08928571428571429},
+ 'child-mother': {'correct': 2,
+                  'counts': '68',
+                  'incorrect': 66,
+                  'perc': 0.029411764705882353},
+ 'faculty-animal': {'correct': 0, 'counts': '12', 'incorrect': 12, 'perc': 0.0},
+ 'faculty-element': {'correct': 0,
+                     'counts': '12',
+                     'incorrect': 12,
+                     'perc': 0.0},
+ 'faculty_first_color-second_color': {'correct': 4,
+                                      'counts': '12',
+                                      'incorrect': 8,
+                                      'perc': 0.3333333333333333},
+ 'firstname-lastname': {'correct': 29,
+                        'counts': '2390',
+                        'incorrect': 2361,
+                        'perc': 0.012133891213389121},
+ 'founder-faculty': {'correct': 0, 'counts': '6', 'incorrect': 6, 'perc': 0.0},
+ 'husband-wife': {'correct': 2,
+                  'counts': '72',
+                  'incorrect': 70,
+                  'perc': 0.027777777777777776},
+ 'name-house': {'correct': 265,
+                'counts': '1364',
+                'incorrect': 1099,
+                'perc': 0.1942815249266862},
+ 'name-species': {'correct': 19,
+                  'counts': '566',
+                  'incorrect': 547,
+                  'perc': 0.03356890459363958},
+ 'pets-of-Hagrid': {'correct': 0, 'counts': '18', 'incorrect': 18, 'perc': 0.0},
+ 'shortname-fullname': {'correct': 0,
+                        'counts': '2',
+                        'incorrect': 2,
+                        'perc': 0.0},
+ 'total': {'correct': 344,
+           'counts': '4790',
+           'incorrect': 4446,
+           'perc': 0.07181628392484342},
+ 'wizard-country': {'correct': 0, 'counts': '6', 'incorrect': 6, 'perc': 0.0},
+ 'wizard-patronal_form': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'wizard-wand_wood': {'correct': 0, 'counts': '6', 'incorrect': 6, 'perc': 0.0},
+ 'wizard_animagus-animal': {'correct': 1,
+                            'counts': '6',
+                            'incorrect': 5,
+                            'perc': 0.16666666666666666}}
+Number of sections: 17
+Number of tasks:       & 2390 & 224 & 72 & 566 & 4790  \\ \hline
+hp_preprocessed                &  1.21 & 8.93 & 2.78 & 3.36 & 7.18  \\

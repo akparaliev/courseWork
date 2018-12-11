@@ -53,10 +53,7 @@ def trainModelAndSave(filePath, outputFilePath):
     model.wv.save_word2vec_format(outputFilePath, binary=False)
 
 
-#model = trainModelAndSave('./hp_4_sentences_split.txt')
-#model.wv.save_word2vec_format("./digitalhumanities_dataset_and_eval/models/hp_4_sentences_split.model", binary=False)
-
-BOOK = '/tmp/soiaf4books.txt' 
-preprocessFile(BOOK, BOOK+'prep.txt')
-executeCoref(4, BOOK+'prep.txt', BOOK+'_corefed.txt')
-trainModelAndSave('./hp_corefed.txt', './digitalhumanities_dataset_and_eval/models/hp_corefed.model')
+BOOK = 'tmp/soiaf4books'
+#preprocessFile(BOOK + '.txt', BOOK+'_preprocessed.txt')
+#executeCoref(4, BOOK+'_preprocessed.txt', BOOK+'_corefed.txt')
+trainModelAndSave(BOOK+ '_corefed.txt', BOOK + '_corefed.model')
