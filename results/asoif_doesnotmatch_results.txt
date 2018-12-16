@@ -12,11 +12,12 @@ eron': 138, 'Tommen': 310, 'dragon': 739, 'Lannister': 1148, 'Aemon': 301}
 
 
 **** Model: soiaf4books_corefed  binary?: False
+../models/soiaf4books_corefed.model
 **** Model: soiaf4books_corefed  LOADED
 
 
-C:\Users\247434\AppData\Local\Programs\Python\Python37-32\lib\site-packages\gensim\matutils.py:737: FutureWarning: Conversion of the second argument of issubdty
-pe from `int` to `np.signedinteger` is deprecated. In future, it will be treated as `np.int32 == np.dtype(int).type`.
+C:\Users\247434\AppData\Local\Programs\Python\Python37-32\lib\site-packages\gensim\matutils.py:737: FutureWarning: Conversion of the second argument of issubdtype from `int` to `np.signedinteger` is depr
+ecated. In future, it will be treated as `np.int32 == np.dtype(int).type`.
   if np.issubdtype(vec.dtype, np.int):
 
 Total values of accuracy per **difficulty** category for: soiaf4books_corefed
@@ -219,23 +220,22 @@ correct_tf_category
 5                     527.787132   708.311485  488.237974  0.553818
 6                    1232.869598  1592.631520  704.708737  0.742176
 {': Greyjoy clan': {'counts': 700, 'perc': 0.8371428571428572},
- ': Lannister clan': {'counts': 700,
-                      'perc': (6.3579662384273e-311+2.54316466886207e-309j)},
- ': Stark clan': {'counts': 1120,
-                  'perc': (5.67675557e-314+2.270682740054e-312j)},
- ': Targaryen clan': {'counts': 200, 'perc': (2.8383778e-316+1.13534137e-314j)},
- ': Westeros cities': {'counts': 80, 'perc': (3.547974e-318+1.4191767e-316j)},
- ': archmaesters': {'counts': 20, 'perc': (1.774e-319+7.095884e-318j)},
- ': bastards': {'counts': 100, 'perc': (1.774e-321+7.096e-320j)},
- ': direwolves': {'counts': 20, 'perc': (9e-323+3.547e-321j)},
- ': dragons': {'counts': 80, 'perc': 4.4e-323j},
- ': family-siblings': {'counts': 160, 'perc': 0j},
- ': free cities': {'counts': 700, 'perc': 0.0},
- ': names-of-houses': {'counts': 7280, 'perc': 0.0},
- ': rivers': {'counts': 20, 'perc': 0.0},
+ ': Lannister clan': {'counts': 700, 'perc': 0.7614285714285715},
+ ': Stark clan': {'counts': 1120, 'perc': 0.8982142857142857},
+ ': Targaryen clan': {'counts': 200, 'perc': 0.69},
+ ': Westeros cities': {'counts': 80, 'perc': 0.7},
+ ': archmaesters': {'counts': 20, 'perc': 0.95},
+ ': bastards': {'counts': 100, 'perc': 0.43},
+ ': direwolves': {'counts': 20, 'perc': 0.75},
+ ': dragons': {'counts': 80, 'perc': 0.9},
+ ': family-siblings': {'counts': 160, 'perc': 0.8125},
+ ': free cities': {'counts': 700, 'perc': 0.8685714285714285},
+ ': names-of-houses': {'counts': 7280, 'perc': 0.6714285714285714},
+ ': rivers': {'counts': 20, 'perc': 0.55},
  'TOTAL': {'counts': 11180, 'perc': 0.7249552772808586}}
 Number of tasks:       & 160 & 7280 & 1120 & 700 & 11180  \\ \hline
-soiaf4books_corefed                &  0j & 0.0 & 0j & 0.0 & 72.5  \\
+soiaf4books_corefed                &  81.25 & 67.14 & 89.82 & 86.86 & 72.5  \\
+
 
 
 **** Model: soiaf4books_preprocessed  binary?: False

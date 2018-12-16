@@ -4,6 +4,7 @@ from gensim.models import word2vec
 from nltk.corpus import gutenberg
 import en_coref_md
 import string
+from gensim.models import FastText
 
 def preprocessFile(filePath, outputFilePath):
     with open(filePath, encoding='utf-8') as file:
@@ -52,8 +53,19 @@ def trainModelAndSave(filePath, outputFilePath):
                              workers=12)
     model.wv.save_word2vec_format(outputFilePath, binary=False)
 
+def trainFastTextAndSave(filePath, outputFilePath):
+    with open(filePath, encoding='utf-8') as file:
+        content = file.read()
+    sentences = word2vec.Text8Corpus(filePath)
+    model = FastText(sentences, size = 80)
+    model.wv.save_word2vec_format(outputFilePath, binary=False)
+    #sentences = word2vec.Text8Corpus(filePath)
+
+    #model = FastText(sentences, min_count=5, size=300, window=5, workers=12, hs=1, sample=0.001, cbow_mean=0)
+    #model.save(outputFilePath, binary=False)
 
 BOOK = 'tmp/soiaf4books'
 #preprocessFile(BOOK + '.txt', BOOK+'_preprocessed.txt')
 #executeCoref(4, BOOK+'_preprocessed.txt', BOOK+'_corefed.txt')
-trainModelAndSave(BOOK+ '_corefed.txt', BOOK + '_corefed.model')
+#trainModelAndSave(BOOK+ '_corefed.txt', BOOK + '_corefed.model')
+trainFastTextAndSave(BOOK+ '_preprocessed.txt', BOOK + '_preprocessed_fast_text.model')

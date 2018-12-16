@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/digitalhumanities_dataset_and_eval" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fastText" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/nlp4is_word_embeddings" vcs="Git" />
   </component>
 </project>
