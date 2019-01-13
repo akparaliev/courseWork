@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7e73e10-b939-4a6b-b90a-4ee6e5158cda" name="Default Changelist" comment="" />
+    <list default="true" id="b7e73e10-b939-4a6b-b90a-4ee6e5158cda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coreNlp.py" beforeDir="false" afterPath="$PROJECT_DIR$/coreNlp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/milestone-one.py" beforeDir="false" afterPath="$PROJECT_DIR$/milestone-one.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,112 +23,15 @@
     <SUITE FILE_PATH="coverage/courseWork$coreNlp.coverage" NAME="coreNlp Coverage Results" MODIFIED="1546668025750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lab5$5.coverage" NAME="5 Coverage Results" MODIFIED="1542826845399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-646210893">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="18" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.16" value="2" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="19" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="ipynb" value="1" />
-          <entry key="md" value="1" />
-          <entry key="model" value="26" />
-          <entry key="pickle" value="2" />
-          <entry key="py" value="33" />
-          <entry key="txt" value="36" />
-          <entry key="vec" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IPNB" value="1" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="65" />
-          <entry key="Python" value="33" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="2644" />
-          <entry key="txt" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="2644" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="934925980">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.30" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="3225" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="3225" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="model" value="3" />
-          <entry key="py" value="5" />
-          <entry key="txt" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="5" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/milestone-one.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-131">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="22">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1546675380163" expanded="true" signature="2495:2582" ph="..." />
               </folding>
             </state>
           </provider>
@@ -132,12 +40,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coref_gold_standard.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+            <state relative-caret-position="528">
+              <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1546672427917" expanded="true" signature="2529:2530" ph="..." />
-                <marker date="1546672427917" expanded="true" signature="2687:2688" ph="..." />
               </folding>
             </state>
           </provider>
@@ -146,10 +52,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coreNlp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            <state relative-caret-position="272">
+              <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#36#79#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -175,6 +81,8 @@
       <find>losing</find>
       <find>Harry, losing</find>
       <find>evaluate_clusters</find>
+      <find>loads_request</find>
+      <find>handle</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -190,9 +98,11 @@
         <option value="$PROJECT_DIR$/digitalhumanities_dataset_and_eval/src/w2v_dataset_helpers.py" />
         <option value="$PROJECT_DIR$/1_preprocessed_text.txt" />
         <option value="$PROJECT_DIR$/digitalhumanities_dataset_and_eval/src/config.py" />
-        <option value="$PROJECT_DIR$/coreNlp.py" />
         <option value="$PROJECT_DIR$/coref_gold_standard.py" />
+        <option value="$PROJECT_DIR$/12.py" />
         <option value="$PROJECT_DIR$/milestone-one.py" />
+        <option value="$PROJECT_DIR$/jsonprc.py" />
+        <option value="$PROJECT_DIR$/coreNlp.py" />
       </list>
     </option>
   </component>
@@ -214,7 +124,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,10 +131,15 @@
               <item name="courseWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="courseWork" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="courseWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.milestone-one">
+  <component name="RunManager" selected="Python.coreNlp">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="lab5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -391,8 +305,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.milestone-one" />
         <item itemvalue="Python.coreNlp" />
+        <item itemvalue="Python.milestone-one" />
         <item itemvalue="Python.coref_gold_standard" />
         <item itemvalue="Python.doesnt_match_evaluation" />
         <item itemvalue="Python.analogies_evaluation" />
@@ -412,26 +326,35 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1852349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1849315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32827735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.25212464" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50052685" side_tool="true" weight="0.25135428" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49947312" weight="0.25135428" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -442,16 +365,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/coreNlp.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="10" />
+          <line>16</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -464,38 +384,65 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="mention" />
-        <watch expression="doc.sentences.gi_code" />
+        <watch expression="i.referent" />
+        <watch expression="i._coref" />
+        <watch expression="i.referent._tokens" />
+        <watch expression="m" />
       </configuration>
     </watches-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>doc.coref_chain(8)._coref</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>doc.coref_chain(8)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>doc.coref_chain(5)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>doc.coref_chains</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>doc.coref_chain(1)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>doc.coref_chain(0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>doc.coref_chain</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>i.referent._coref_chain</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nlp4is_word_embeddings/student_datasets/w_and_p_doesnt_match.txt" />
-    <entry file="file://$PROJECT_DIR$/nlp4is_word_embeddings/student_datasets/w_and_p_analogies.txt" />
-    <entry file="file://$PROJECT_DIR$/nlp4is_word_embeddings/src/w2v_dataset_helpers.py" />
-    <entry file="file://$PROJECT_DIR$/cofered_txt.vec" />
-    <entry file="file://$PROJECT_DIR$/nlp4is_word_embeddings/datasets/questions_soiaf_analogies.txt" />
-    <entry file="file://$PROJECT_DIR$/nlp4is_word_embeddings/src/config.py" />
-    <entry file="file://$PROJECT_DIR$/nlp4is_word_embeddings/src/analogies_evaluation.py" />
-    <entry file="file://$PROJECT_DIR$/nlp4is_word_embeddings/datasets/create_questions.py" />
-    <entry file="file://$PROJECT_DIR$/nlp4is_word_embeddings/datasets/check_frequencies.py" />
     <entry file="file://$PROJECT_DIR$/nlp4is_word_embeddings/src/doesnt_match_evaluation.py" />
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/datasets/freq_hp.pickle" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/gensim/test/test_word2vec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="434" column="8" selection-start-line="434" selection-start-column="8" selection-end-line="434" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/gensim/test/test_word2vec.py" />
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/src/dl_asoif_test.ipynb" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/gensim/models/keyedvectors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="1356" lean-forward="true" selection-start-line="1356" selection-end-line="1356" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/gensim/models/keyedvectors.py" />
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/models/cofered_txt.model" />
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/models/README.md" />
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/models/hp_lexvec_ngram.model" />
@@ -504,13 +451,7 @@
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/models/hp_fasttext-12-e25-bash.model" />
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/models/hp_fastText_ngram.model" />
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/models/hp_w2v-default-bash.model" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/gensim/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24220">
-          <caret line="1211" selection-start-line="1211" selection-end-line="1211" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/gensim/utils.py" />
     <entry file="file://$PROJECT_DIR$/corefed_txt.txt" />
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/models/corefed_txt.model" />
     <entry file="file://$PROJECT_DIR$/hp_4_sentences_split.txt" />
@@ -518,23 +459,11 @@
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/src/doesnt_match_evaluation.py" />
     <entry file="file://$PROJECT_DIR$/book_combined_sentences.txt" />
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/models/hp_4_sentences_split.model" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/thinc/neural/_classes/affine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="50" column="33" lean-forward="true" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/thinc/neural/_classes/affine.py" />
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/models/hp_corefed.model" />
     <entry file="file://$PROJECT_DIR$/digitalhumanities_dataset_and_eval/src/config.py" />
-    <entry file="file://$PROJECT_DIR$/tmp/hp_preprocessed_fast_text.model">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-125032" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tmp/hp_preprocessed.model">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/hp_preprocessed_fast_text.model" />
+    <entry file="file://$PROJECT_DIR$/tmp/hp_preprocessed.model" />
     <entry file="file://$PROJECT_DIR$/results/hp_corefed_fast_text.model">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -591,18 +520,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coref_gold_standard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1546672427917" expanded="true" signature="2529:2530" ph="..." />
-            <marker date="1546672427917" expanded="true" signature="2687:2688" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/ipynb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
@@ -610,23 +527,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/neuralcoref/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/neuralcoref/__main__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/neuralcoref/neuralcoref.pxd" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/neuralcoref/neuralcoref.pyx" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/neuralcoref/train/utils.py" />
+    <entry file="file://$PROJECT_DIR$/12.py" />
+    <entry file="file://$PROJECT_DIR$/jsonprc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="1128" lean-forward="true" selection-start-line="1128" selection-end-line="1128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stanford-corenlp-python/corenlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stanford-corenlp-python/jsonrpc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="1069" column="43" selection-start-line="1069" selection-start-column="37" selection-end-line="1069" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/coreNlp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="272">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#36#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coref_gold_standard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/milestone-one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-131">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="22">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <marker date="1546675380163" expanded="true" signature="2495:2582" ph="..." />
           </folding>
         </state>
       </provider>

@@ -1,9 +1,8 @@
 import nltk
-from nltk.corpus import stopwords
 from gensim.models import word2vec
-from nltk.corpus import gutenberg
 import en_coref_md
-import string
+
+
 from gensim.models import FastText
 
 def preprocessFile(filePath, outputFilePath):
@@ -46,31 +45,25 @@ def executeCoref(sentenceCount, targetTextPath, outputFilePath):
     outputFile.close()
 
 def trainText8CorpusModelAndSave(filePath, outputFilePath, **kwargs):
-    with open(filePath, encoding='utf-8') as file:
-        content = file.read()
     sentences = word2vec.Text8Corpus(filePath)
     model = word2vec.Word2Vec(sentences, **kwargs)
     model.wv.save_word2vec_format(outputFilePath, binary=False)
 
 def trainFastTextAndSave(filePath, outputFilePath, **kwargs):
-    with open(filePath, encoding='utf-8') as file:
-        content = file.read()
     sentences = word2vec.Text8Corpus(filePath)
     model = FastText(sentences, **kwargs)
     model.wv.save_word2vec_format(outputFilePath, binary=False)
-    #sentences = word2vec.Text8Corpus(filePath)
 
-    #model = FastText(sentences, min_count=5, size=300, window=5, workers=12, hs=1, sample=0.001, cbow_mean=0)
-    #model.save(outputFilePath, binary=False)
 def evaluateSentence(sentence):
     nlp = en_coref_md.load()
     doc = nlp(sentence)
     print(doc._.coref_resolved)
 
 BOOK = 'tmp/soiaf4books'
+#BOOK = 'tmp/hp'
 #preprocessFile(BOOK + '.txt', BOOK+'_preprocessed.txt')
-#executeCoref(4, BOOK+'_preprocessed.txt', BOOK+'_corefed.txt')
-#trainText8CorpusModelAndSave(BOOK+ '_corefed.txt', BOOK + '_corefed.model', cbow_mean=0,min_count=5,size=300, window=5, negative=0, hs=1, sample=0.001,workers=12)
-#trainFastTextAndSave(BOOK+ '_preprocessed.txt', BOOK + '_preprocessed_fast_text.model', size = 80)
+#executeCoref(500, BOOK+'_preprocessed.txt', BOOK+'_corefed_500.txt')
+#trainText8CorpusModelAndSave(BOOK + '_preprocessed.txt', BOOK + '_preprocessed_text8_3.model', size=300, negative=15, sg=1, hs=1, iter=15, window=12)
+#trainFastTextAndSave(BOOK + '_corefed_500.txt', BOOK + '_corefed_500_fasttext.model')
 #evaluateSentence('Well, we were always going to fail that one,” said Ron gloomily as they ascended the marble staircase, Ron had just made Harry feel rather better by telling Harry how Ron told the examiner in detail about the ugly man with a wart on his nose in his crystal ball, only to look up and realize Ron had been describing his examiner’s reflection.')
-
+evaluateSentence("Hermione opened her mouth to argue, but at that moment Crookshanks leapt lightly onto her lap. A large, dead spider was dangling from his mouth.")

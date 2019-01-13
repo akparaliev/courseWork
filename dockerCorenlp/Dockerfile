@@ -18,4 +18,4 @@ ENV PORT 9000
 
 EXPOSE $PORT
 
-CMD java -cp "*" -mx8g edu.stanford.nlp.pipeline.StanfordCoreNLPServer -timeout 15000000 -preload "tokenize,ssplit,pos,depparse,ner,lemma,coref"
+CMD java -cp "*" -mx8g edu.stanford.nlp.pipeline.StanfordCoreNLPServer -timeout 15000000 -preload "tokenize,ssplit,pos,lemma,ner,depparse,coref"

@@ -59,7 +59,6 @@ def evaluate_clusters(doc, current_gold):
     b3_weighted = np.sum([f1 * len_gold / total_num_gold for len_gold, _, _, f1 in cluster_results])
     print('b3_weighted', b3_weighted)
 
-
 def executeParagraph(par, gold_clusters):
     nlp = en_coref_md.load()
     doc = nlp(par)
