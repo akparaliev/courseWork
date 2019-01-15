@@ -1,0 +1,3 @@
+- Results folder contains results for doesn't match evaluation and analogies evaluation(scripts from base repo)
+- the short results are here: https://docs.google.com/spreadsheets/d/14hkjaUCk6k9vpKR2vDQGY39noIUAK24ks50MA6f6gLA/edit?usp=sharing
+- the b3 metric results are here: https://docs.google.com/spreadsheets/d/1_TQ1JOULMs7Qqnt6LhmiR6XStdx3PuFG6nKK3sGbG4E/edit?usp=sharing
