@@ -1,0 +1,2376 @@
+
+
+**** Model: soiaf4books_preprocessed_text8  binary?: False
+**** Model: soiaf4books_preprocessed_text8  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 3,
+                        'counts': '42',
+                        'incorrect': 39,
+                        'perc': 0.07142857142857142},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 5,
+                  'counts': '180',
+                  'incorrect': 175,
+                  'perc': 0.027777777777777776},
+ 'firstname-lastname': {'correct': 175,
+                        'counts': '2368',
+                        'incorrect': 2193,
+                        'perc': 0.07390202702702703},
+ 'geo-name-location': {'correct': 4,
+                       'counts': '168',
+                       'incorrect': 164,
+                       'perc': 0.023809523809523808},
+ 'houses-seats': {'correct': 12, 'counts': '30', 'incorrect': 18, 'perc': 0.4},
+ 'husband-wife': {'correct': 3, 'counts': '30', 'incorrect': 27, 'perc': 0.1},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 203,
+           'counts': '2848',
+           'incorrect': 2645,
+           'perc': 0.07127808988764045}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_preprocessed_text8                &  7.39 & 2.78 & 10.0 & 2.38 & 40.0 & 7.13  \\ 
+
+
+**** Model: soiaf4books_preprocessed_text8_1  binary?: False
+**** Model: soiaf4books_preprocessed_text8_1  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 8,
+                        'counts': '42',
+                        'incorrect': 34,
+                        'perc': 0.19047619047619047},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 11,
+                  'counts': '180',
+                  'incorrect': 169,
+                  'perc': 0.06111111111111111},
+ 'firstname-lastname': {'correct': 789,
+                        'counts': '2368',
+                        'incorrect': 1579,
+                        'perc': 0.33319256756756754},
+ 'geo-name-location': {'correct': 13,
+                       'counts': '168',
+                       'incorrect': 155,
+                       'perc': 0.07738095238095238},
+ 'houses-seats': {'correct': 9, 'counts': '30', 'incorrect': 21, 'perc': 0.3},
+ 'husband-wife': {'correct': 7,
+                  'counts': '30',
+                  'incorrect': 23,
+                  'perc': 0.23333333333333334},
+ 'name-animal-type': {'correct': 8,
+                      'counts': '24',
+                      'incorrect': 16,
+                      'perc': 0.3333333333333333},
+ 'total': {'correct': 845,
+           'counts': '2848',
+           'incorrect': 2003,
+           'perc': 0.2966994382022472}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_preprocessed_text8_1                &  33.32 & 6.11 & 23.33 & 7.74 & 30.0 & 29.67  \\ 
+
+
+**** Model: soiaf4books_preprocessed_text8_2  binary?: False
+**** Model: soiaf4books_preprocessed_text8_2  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 11,
+                        'counts': '42',
+                        'incorrect': 31,
+                        'perc': 0.2619047619047619},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 3,
+                  'counts': '180',
+                  'incorrect': 177,
+                  'perc': 0.016666666666666666},
+ 'firstname-lastname': {'correct': 981,
+                        'counts': '2368',
+                        'incorrect': 1387,
+                        'perc': 0.41427364864864863},
+ 'geo-name-location': {'correct': 16,
+                       'counts': '168',
+                       'incorrect': 152,
+                       'perc': 0.09523809523809523},
+ 'houses-seats': {'correct': 10,
+                  'counts': '30',
+                  'incorrect': 20,
+                  'perc': 0.3333333333333333},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 7,
+                      'counts': '24',
+                      'incorrect': 17,
+                      'perc': 0.2916666666666667},
+ 'total': {'correct': 1028,
+           'counts': '2848',
+           'incorrect': 1820,
+           'perc': 0.3609550561797753}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_preprocessed_text8_2                &  41.43 & 1.67 & 0.0 & 9.52 & 33.33 & 36.1  \\ 
+
+
+**** Model: soiaf4books_preprocessed_text8_3  binary?: False
+**** Model: soiaf4books_preprocessed_text8_3  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 12,
+                        'counts': '42',
+                        'incorrect': 30,
+                        'perc': 0.2857142857142857},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 9,
+                  'counts': '180',
+                  'incorrect': 171,
+                  'perc': 0.05},
+ 'firstname-lastname': {'correct': 1010,
+                        'counts': '2368',
+                        'incorrect': 1358,
+                        'perc': 0.4265202702702703},
+ 'geo-name-location': {'correct': 24,
+                       'counts': '168',
+                       'incorrect': 144,
+                       'perc': 0.14285714285714285},
+ 'houses-seats': {'correct': 12, 'counts': '30', 'incorrect': 18, 'perc': 0.4},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 2,
+                      'counts': '24',
+                      'incorrect': 22,
+                      'perc': 0.08333333333333333},
+ 'total': {'correct': 1069,
+           'counts': '2848',
+           'incorrect': 1779,
+           'perc': 0.3753511235955056}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_preprocessed_text8_3                &  42.65 & 5.0 & 0.0 & 14.29 & 40.0 & 37.54  \\ 
+
+
+**** Model: soiaf4books_preprocessed_text8_4  binary?: False
+**** Model: soiaf4books_preprocessed_text8_4  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 9,
+                  'counts': '180',
+                  'incorrect': 171,
+                  'perc': 0.05},
+ 'firstname-lastname': {'correct': 10,
+                        'counts': '2368',
+                        'incorrect': 2358,
+                        'perc': 0.004222972972972973},
+ 'geo-name-location': {'correct': 20,
+                       'counts': '168',
+                       'incorrect': 148,
+                       'perc': 0.11904761904761904},
+ 'houses-seats': {'correct': 9, 'counts': '30', 'incorrect': 21, 'perc': 0.3},
+ 'husband-wife': {'correct': 5,
+                  'counts': '30',
+                  'incorrect': 25,
+                  'perc': 0.16666666666666666},
+ 'name-animal-type': {'correct': 3,
+                      'counts': '24',
+                      'incorrect': 21,
+                      'perc': 0.125},
+ 'total': {'correct': 56,
+           'counts': '2848',
+           'incorrect': 2792,
+           'perc': 0.019662921348314606}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_preprocessed_text8_4                &  0.42 & 5.0 & 16.67 & 11.9 & 30.0 & 1.97  \\ 
+
+
+**** Model: soiaf4books_corefed_1_text8  binary?: False
+**** Model: soiaf4books_corefed_1_text8  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 4,
+                        'counts': '42',
+                        'incorrect': 38,
+                        'perc': 0.09523809523809523},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 9,
+                  'counts': '180',
+                  'incorrect': 171,
+                  'perc': 0.05},
+ 'firstname-lastname': {'correct': 435,
+                        'counts': '2368',
+                        'incorrect': 1933,
+                        'perc': 0.18369932432432431},
+ 'geo-name-location': {'correct': 10,
+                       'counts': '142',
+                       'incorrect': 132,
+                       'perc': 0.07042253521126761},
+ 'houses-seats': {'correct': 9, 'counts': '30', 'incorrect': 21, 'perc': 0.3},
+ 'husband-wife': {'correct': 1,
+                  'counts': '30',
+                  'incorrect': 29,
+                  'perc': 0.03333333333333333},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 468,
+           'counts': '2822',
+           'incorrect': 2354,
+           'perc': 0.16583982990786675}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 142 & 30 & 2822  \\ \hline 
+soiaf4books_corefed_1_text8                &  18.37 & 5.0 & 3.33 & 7.04 & 30.0 & 16.58  \\ 
+
+
+**** Model: soiaf4books_corefed_1_text8_1  binary?: False
+**** Model: soiaf4books_corefed_1_text8_1  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 4,
+                        'counts': '42',
+                        'incorrect': 38,
+                        'perc': 0.09523809523809523},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 6,
+                  'counts': '180',
+                  'incorrect': 174,
+                  'perc': 0.03333333333333333},
+ 'firstname-lastname': {'correct': 1004,
+                        'counts': '2368',
+                        'incorrect': 1364,
+                        'perc': 0.4239864864864865},
+ 'geo-name-location': {'correct': 0,
+                       'counts': '142',
+                       'incorrect': 142,
+                       'perc': 0.0},
+ 'houses-seats': {'correct': 6, 'counts': '30', 'incorrect': 24, 'perc': 0.2},
+ 'husband-wife': {'correct': 1,
+                  'counts': '30',
+                  'incorrect': 29,
+                  'perc': 0.03333333333333333},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 1021,
+           'counts': '2822',
+           'incorrect': 1801,
+           'perc': 0.3618001417434444}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 142 & 30 & 2822  \\ \hline 
+soiaf4books_corefed_1_text8_1                &  42.4 & 3.33 & 3.33 & 0.0 & 20.0 & 36.18  \\ 
+
+
+**** Model: soiaf4books_corefed_1_text8_2  binary?: False
+**** Model: soiaf4books_corefed_1_text8_2  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 2,
+                        'counts': '42',
+                        'incorrect': 40,
+                        'perc': 0.047619047619047616},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 7,
+                  'counts': '180',
+                  'incorrect': 173,
+                  'perc': 0.03888888888888889},
+ 'firstname-lastname': {'correct': 1046,
+                        'counts': '2368',
+                        'incorrect': 1322,
+                        'perc': 0.44172297297297297},
+ 'geo-name-location': {'correct': 4,
+                       'counts': '142',
+                       'incorrect': 138,
+                       'perc': 0.028169014084507043},
+ 'houses-seats': {'correct': 6, 'counts': '30', 'incorrect': 24, 'perc': 0.2},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 2,
+                      'counts': '24',
+                      'incorrect': 22,
+                      'perc': 0.08333333333333333},
+ 'total': {'correct': 1067,
+           'counts': '2822',
+           'incorrect': 1755,
+           'perc': 0.37810063784549963}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 142 & 30 & 2822  \\ \hline 
+soiaf4books_corefed_1_text8_2                &  44.17 & 3.89 & 0.0 & 2.82 & 20.0 & 37.81  \\ 
+
+
+**** Model: soiaf4books_corefed_1_text8_3  binary?: False
+**** Model: soiaf4books_corefed_1_text8_3  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 8,
+                        'counts': '42',
+                        'incorrect': 34,
+                        'perc': 0.19047619047619047},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 7,
+                  'counts': '180',
+                  'incorrect': 173,
+                  'perc': 0.03888888888888889},
+ 'firstname-lastname': {'correct': 1052,
+                        'counts': '2368',
+                        'incorrect': 1316,
+                        'perc': 0.44425675675675674},
+ 'geo-name-location': {'correct': 19,
+                       'counts': '142',
+                       'incorrect': 123,
+                       'perc': 0.13380281690140844},
+ 'houses-seats': {'correct': 8,
+                  'counts': '30',
+                  'incorrect': 22,
+                  'perc': 0.26666666666666666},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 1,
+                      'counts': '24',
+                      'incorrect': 23,
+                      'perc': 0.041666666666666664},
+ 'total': {'correct': 1095,
+           'counts': '2822',
+           'incorrect': 1727,
+           'perc': 0.3880226789510985}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 142 & 30 & 2822  \\ \hline 
+soiaf4books_corefed_1_text8_3                &  44.43 & 3.89 & 0.0 & 13.38 & 26.67 & 38.8  \\ 
+
+
+**** Model: soiaf4books_corefed_1_text8_4  binary?: False
+**** Model: soiaf4books_corefed_1_text8_4  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 18,
+                  'counts': '180',
+                  'incorrect': 162,
+                  'perc': 0.1},
+ 'firstname-lastname': {'correct': 319,
+                        'counts': '2368',
+                        'incorrect': 2049,
+                        'perc': 0.13471283783783783},
+ 'geo-name-location': {'correct': 6,
+                       'counts': '142',
+                       'incorrect': 136,
+                       'perc': 0.04225352112676056},
+ 'houses-seats': {'correct': 10,
+                  'counts': '30',
+                  'incorrect': 20,
+                  'perc': 0.3333333333333333},
+ 'husband-wife': {'correct': 1,
+                  'counts': '30',
+                  'incorrect': 29,
+                  'perc': 0.03333333333333333},
+ 'name-animal-type': {'correct': 1,
+                      'counts': '24',
+                      'incorrect': 23,
+                      'perc': 0.041666666666666664},
+ 'total': {'correct': 355,
+           'counts': '2822',
+           'incorrect': 2467,
+           'perc': 0.12579730687455706}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 142 & 30 & 2822  \\ \hline 
+soiaf4books_corefed_1_text8_4                &  13.47 & 10.0 & 3.33 & 4.23 & 33.33 & 12.58  \\ 
+
+
+**** Model: soiaf4books_corefed_4_text8  binary?: False
+**** Model: soiaf4books_corefed_4_text8  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 1,
+                        'counts': '42',
+                        'incorrect': 41,
+                        'perc': 0.023809523809523808},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 10,
+                  'counts': '180',
+                  'incorrect': 170,
+                  'perc': 0.05555555555555555},
+ 'firstname-lastname': {'correct': 500,
+                        'counts': '2368',
+                        'incorrect': 1868,
+                        'perc': 0.21114864864864866},
+ 'geo-name-location': {'correct': 5,
+                       'counts': '168',
+                       'incorrect': 163,
+                       'perc': 0.02976190476190476},
+ 'houses-seats': {'correct': 11,
+                  'counts': '30',
+                  'incorrect': 19,
+                  'perc': 0.36666666666666664},
+ 'husband-wife': {'correct': 1,
+                  'counts': '30',
+                  'incorrect': 29,
+                  'perc': 0.03333333333333333},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 528,
+           'counts': '2848',
+           'incorrect': 2320,
+           'perc': 0.1853932584269663}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_4_text8                &  21.11 & 5.56 & 3.33 & 2.98 & 36.67 & 18.54  \\ 
+
+
+**** Model: soiaf4books_corefed_4_text8_1  binary?: False
+**** Model: soiaf4books_corefed_4_text8_1  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 3,
+                        'counts': '42',
+                        'incorrect': 39,
+                        'perc': 0.07142857142857142},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 6,
+                  'counts': '180',
+                  'incorrect': 174,
+                  'perc': 0.03333333333333333},
+ 'firstname-lastname': {'correct': 977,
+                        'counts': '2368',
+                        'incorrect': 1391,
+                        'perc': 0.4125844594594595},
+ 'geo-name-location': {'correct': 22,
+                       'counts': '168',
+                       'incorrect': 146,
+                       'perc': 0.13095238095238096},
+ 'houses-seats': {'correct': 8,
+                  'counts': '30',
+                  'incorrect': 22,
+                  'perc': 0.26666666666666666},
+ 'husband-wife': {'correct': 3, 'counts': '30', 'incorrect': 27, 'perc': 0.1},
+ 'name-animal-type': {'correct': 3,
+                      'counts': '24',
+                      'incorrect': 21,
+                      'perc': 0.125},
+ 'total': {'correct': 1023,
+           'counts': '2848',
+           'incorrect': 1825,
+           'perc': 0.3591994382022472}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_4_text8_1                &  41.26 & 3.33 & 10.0 & 13.1 & 26.67 & 35.92  \\ 
+
+
+**** Model: soiaf4books_corefed_4_text8_2  binary?: False
+**** Model: soiaf4books_corefed_4_text8_2  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 5,
+                        'counts': '42',
+                        'incorrect': 37,
+                        'perc': 0.11904761904761904},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 5,
+                  'counts': '180',
+                  'incorrect': 175,
+                  'perc': 0.027777777777777776},
+ 'firstname-lastname': {'correct': 1054,
+                        'counts': '2368',
+                        'incorrect': 1314,
+                        'perc': 0.44510135135135137},
+ 'geo-name-location': {'correct': 14,
+                       'counts': '168',
+                       'incorrect': 154,
+                       'perc': 0.08333333333333333},
+ 'houses-seats': {'correct': 8,
+                  'counts': '30',
+                  'incorrect': 22,
+                  'perc': 0.26666666666666666},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 4,
+                      'counts': '24',
+                      'incorrect': 20,
+                      'perc': 0.16666666666666666},
+ 'total': {'correct': 1090,
+           'counts': '2848',
+           'incorrect': 1758,
+           'perc': 0.3827247191011236}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_4_text8_2                &  44.51 & 2.78 & 0.0 & 8.33 & 26.67 & 38.27  \\ 
+
+
+**** Model: soiaf4books_corefed_4_text8_3  binary?: False
+**** Model: soiaf4books_corefed_4_text8_3  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 7,
+                        'counts': '42',
+                        'incorrect': 35,
+                        'perc': 0.16666666666666666},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 11,
+                  'counts': '180',
+                  'incorrect': 169,
+                  'perc': 0.06111111111111111},
+ 'firstname-lastname': {'correct': 998,
+                        'counts': '2368',
+                        'incorrect': 1370,
+                        'perc': 0.4214527027027027},
+ 'geo-name-location': {'correct': 22,
+                       'counts': '168',
+                       'incorrect': 146,
+                       'perc': 0.13095238095238096},
+ 'houses-seats': {'correct': 9, 'counts': '30', 'incorrect': 21, 'perc': 0.3},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 3,
+                      'counts': '24',
+                      'incorrect': 21,
+                      'perc': 0.125},
+ 'total': {'correct': 1050,
+           'counts': '2848',
+           'incorrect': 1798,
+           'perc': 0.3686797752808989}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_4_text8_3                &  42.15 & 6.11 & 0.0 & 13.1 & 30.0 & 36.87  \\ 
+
+
+**** Model: soiaf4books_corefed_4_text8_4  binary?: False
+**** Model: soiaf4books_corefed_4_text8_4  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 1,
+                        'counts': '42',
+                        'incorrect': 41,
+                        'perc': 0.023809523809523808},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 11,
+                  'counts': '180',
+                  'incorrect': 169,
+                  'perc': 0.06111111111111111},
+ 'firstname-lastname': {'correct': 240,
+                        'counts': '2368',
+                        'incorrect': 2128,
+                        'perc': 0.10135135135135136},
+ 'geo-name-location': {'correct': 30,
+                       'counts': '168',
+                       'incorrect': 138,
+                       'perc': 0.17857142857142858},
+ 'houses-seats': {'correct': 14,
+                  'counts': '30',
+                  'incorrect': 16,
+                  'perc': 0.4666666666666667},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 4,
+                      'counts': '24',
+                      'incorrect': 20,
+                      'perc': 0.16666666666666666},
+ 'total': {'correct': 300,
+           'counts': '2848',
+           'incorrect': 2548,
+           'perc': 0.10533707865168539}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_4_text8_4                &  10.14 & 6.11 & 0.0 & 17.86 & 46.67 & 10.53  \\ 
+
+
+**** Model: soiaf4books_corefed_50_text8  binary?: False
+**** Model: soiaf4books_corefed_50_text8  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 2,
+                        'counts': '42',
+                        'incorrect': 40,
+                        'perc': 0.047619047619047616},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 11,
+                  'counts': '180',
+                  'incorrect': 169,
+                  'perc': 0.06111111111111111},
+ 'firstname-lastname': {'correct': 505,
+                        'counts': '2368',
+                        'incorrect': 1863,
+                        'perc': 0.21326013513513514},
+ 'geo-name-location': {'correct': 12,
+                       'counts': '168',
+                       'incorrect': 156,
+                       'perc': 0.07142857142857142},
+ 'houses-seats': {'correct': 9, 'counts': '30', 'incorrect': 21, 'perc': 0.3},
+ 'husband-wife': {'correct': 2,
+                  'counts': '30',
+                  'incorrect': 28,
+                  'perc': 0.06666666666666667},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 541,
+           'counts': '2848',
+           'incorrect': 2307,
+           'perc': 0.18995786516853932}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_50_text8                &  21.33 & 6.11 & 6.67 & 7.14 & 30.0 & 19.0  \\ 
+
+
+**** Model: soiaf4books_corefed_50_text8_1  binary?: False
+**** Model: soiaf4books_corefed_50_text8_1  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 1,
+                        'counts': '42',
+                        'incorrect': 41,
+                        'perc': 0.023809523809523808},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 7,
+                  'counts': '180',
+                  'incorrect': 173,
+                  'perc': 0.03888888888888889},
+ 'firstname-lastname': {'correct': 1038,
+                        'counts': '2368',
+                        'incorrect': 1330,
+                        'perc': 0.43834459459459457},
+ 'geo-name-location': {'correct': 15,
+                       'counts': '168',
+                       'incorrect': 153,
+                       'perc': 0.08928571428571429},
+ 'houses-seats': {'correct': 8,
+                  'counts': '30',
+                  'incorrect': 22,
+                  'perc': 0.26666666666666666},
+ 'husband-wife': {'correct': 3, 'counts': '30', 'incorrect': 27, 'perc': 0.1},
+ 'name-animal-type': {'correct': 4,
+                      'counts': '24',
+                      'incorrect': 20,
+                      'perc': 0.16666666666666666},
+ 'total': {'correct': 1077,
+           'counts': '2848',
+           'incorrect': 1771,
+           'perc': 0.37816011235955055}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_50_text8_1                &  43.83 & 3.89 & 10.0 & 8.93 & 26.67 & 37.82  \\ 
+
+
+**** Model: soiaf4books_corefed_50_text8_2  binary?: False
+**** Model: soiaf4books_corefed_50_text8_2  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 5,
+                        'counts': '42',
+                        'incorrect': 37,
+                        'perc': 0.11904761904761904},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 6,
+                  'counts': '180',
+                  'incorrect': 174,
+                  'perc': 0.03333333333333333},
+ 'firstname-lastname': {'correct': 1069,
+                        'counts': '2368',
+                        'incorrect': 1299,
+                        'perc': 0.4514358108108108},
+ 'geo-name-location': {'correct': 6,
+                       'counts': '168',
+                       'incorrect': 162,
+                       'perc': 0.03571428571428571},
+ 'houses-seats': {'correct': 6, 'counts': '30', 'incorrect': 24, 'perc': 0.2},
+ 'husband-wife': {'correct': 2,
+                  'counts': '30',
+                  'incorrect': 28,
+                  'perc': 0.06666666666666667},
+ 'name-animal-type': {'correct': 4,
+                      'counts': '24',
+                      'incorrect': 20,
+                      'perc': 0.16666666666666666},
+ 'total': {'correct': 1099,
+           'counts': '2848',
+           'incorrect': 1749,
+           'perc': 0.38588483146067415}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_50_text8_2                &  45.14 & 3.33 & 6.67 & 3.57 & 20.0 & 38.59  \\ 
+
+
+**** Model: soiaf4books_corefed_50_text8_3  binary?: False
+**** Model: soiaf4books_corefed_50_text8_3  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 5,
+                        'counts': '42',
+                        'incorrect': 37,
+                        'perc': 0.11904761904761904},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 5,
+                  'counts': '180',
+                  'incorrect': 175,
+                  'perc': 0.027777777777777776},
+ 'firstname-lastname': {'correct': 1106,
+                        'counts': '2368',
+                        'incorrect': 1262,
+                        'perc': 0.4670608108108108},
+ 'geo-name-location': {'correct': 13,
+                       'counts': '168',
+                       'incorrect': 155,
+                       'perc': 0.07738095238095238},
+ 'houses-seats': {'correct': 9, 'counts': '30', 'incorrect': 21, 'perc': 0.3},
+ 'husband-wife': {'correct': 1,
+                  'counts': '30',
+                  'incorrect': 29,
+                  'perc': 0.03333333333333333},
+ 'name-animal-type': {'correct': 3,
+                      'counts': '24',
+                      'incorrect': 21,
+                      'perc': 0.125},
+ 'total': {'correct': 1142,
+           'counts': '2848',
+           'incorrect': 1706,
+           'perc': 0.40098314606741575}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_50_text8_3                &  46.71 & 2.78 & 3.33 & 7.74 & 30.0 & 40.1  \\ 
+
+
+**** Model: soiaf4books_corefed_50_text8_4  binary?: False
+**** Model: soiaf4books_corefed_50_text8_4  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 11,
+                  'counts': '180',
+                  'incorrect': 169,
+                  'perc': 0.06111111111111111},
+ 'firstname-lastname': {'correct': 251,
+                        'counts': '2368',
+                        'incorrect': 2117,
+                        'perc': 0.10599662162162163},
+ 'geo-name-location': {'correct': 12,
+                       'counts': '168',
+                       'incorrect': 156,
+                       'perc': 0.07142857142857142},
+ 'houses-seats': {'correct': 13,
+                  'counts': '30',
+                  'incorrect': 17,
+                  'perc': 0.43333333333333335},
+ 'husband-wife': {'correct': 2,
+                  'counts': '30',
+                  'incorrect': 28,
+                  'perc': 0.06666666666666667},
+ 'name-animal-type': {'correct': 2,
+                      'counts': '24',
+                      'incorrect': 22,
+                      'perc': 0.08333333333333333},
+ 'total': {'correct': 291,
+           'counts': '2848',
+           'incorrect': 2557,
+           'perc': 0.10217696629213484}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_50_text8_4                &  10.6 & 6.11 & 6.67 & 7.14 & 43.33 & 10.22  \\ 
+
+
+**** Model: soiaf4books_corefed_500_text8  binary?: False
+**** Model: soiaf4books_corefed_500_text8  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 3,
+                        'counts': '42',
+                        'incorrect': 39,
+                        'perc': 0.07142857142857142},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 11,
+                  'counts': '180',
+                  'incorrect': 169,
+                  'perc': 0.06111111111111111},
+ 'firstname-lastname': {'correct': 378,
+                        'counts': '2368',
+                        'incorrect': 1990,
+                        'perc': 0.15962837837837837},
+ 'geo-name-location': {'correct': 16,
+                       'counts': '168',
+                       'incorrect': 152,
+                       'perc': 0.09523809523809523},
+ 'houses-seats': {'correct': 10,
+                  'counts': '30',
+                  'incorrect': 20,
+                  'perc': 0.3333333333333333},
+ 'husband-wife': {'correct': 3, 'counts': '30', 'incorrect': 27, 'perc': 0.1},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 421,
+           'counts': '2848',
+           'incorrect': 2427,
+           'perc': 0.14782303370786518}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_500_text8                &  15.96 & 6.11 & 10.0 & 9.52 & 33.33 & 14.78  \\ 
+
+
+**** Model: soiaf4books_corefed_500_text8_1  binary?: False
+**** Model: soiaf4books_corefed_500_text8_1  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 5,
+                        'counts': '42',
+                        'incorrect': 37,
+                        'perc': 0.11904761904761904},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 12,
+                  'counts': '180',
+                  'incorrect': 168,
+                  'perc': 0.06666666666666667},
+ 'firstname-lastname': {'correct': 1044,
+                        'counts': '2368',
+                        'incorrect': 1324,
+                        'perc': 0.4408783783783784},
+ 'geo-name-location': {'correct': 13,
+                       'counts': '168',
+                       'incorrect': 155,
+                       'perc': 0.07738095238095238},
+ 'houses-seats': {'correct': 11,
+                  'counts': '30',
+                  'incorrect': 19,
+                  'perc': 0.36666666666666664},
+ 'husband-wife': {'correct': 2,
+                  'counts': '30',
+                  'incorrect': 28,
+                  'perc': 0.06666666666666667},
+ 'name-animal-type': {'correct': 3,
+                      'counts': '24',
+                      'incorrect': 21,
+                      'perc': 0.125},
+ 'total': {'correct': 1090,
+           'counts': '2848',
+           'incorrect': 1758,
+           'perc': 0.3827247191011236}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_500_text8_1                &  44.09 & 6.67 & 6.67 & 7.74 & 36.67 & 38.27  \\ 
+
+
+**** Model: soiaf4books_corefed_500_text8_2  binary?: False
+**** Model: soiaf4books_corefed_500_text8_2  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 3,
+                        'counts': '42',
+                        'incorrect': 39,
+                        'perc': 0.07142857142857142},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 11,
+                  'counts': '180',
+                  'incorrect': 169,
+                  'perc': 0.06111111111111111},
+ 'firstname-lastname': {'correct': 1059,
+                        'counts': '2368',
+                        'incorrect': 1309,
+                        'perc': 0.44721283783783783},
+ 'geo-name-location': {'correct': 11,
+                       'counts': '168',
+                       'incorrect': 157,
+                       'perc': 0.06547619047619048},
+ 'houses-seats': {'correct': 7,
+                  'counts': '30',
+                  'incorrect': 23,
+                  'perc': 0.23333333333333334},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 4,
+                      'counts': '24',
+                      'incorrect': 20,
+                      'perc': 0.16666666666666666},
+ 'total': {'correct': 1096,
+           'counts': '2848',
+           'incorrect': 1752,
+           'perc': 0.3848314606741573}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_500_text8_2                &  44.72 & 6.11 & 0.0 & 6.55 & 23.33 & 38.48  \\ 
+
+
+**** Model: soiaf4books_corefed_500_text8_3  binary?: False
+**** Model: soiaf4books_corefed_500_text8_3  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 5,
+                        'counts': '42',
+                        'incorrect': 37,
+                        'perc': 0.11904761904761904},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 10,
+                  'counts': '180',
+                  'incorrect': 170,
+                  'perc': 0.05555555555555555},
+ 'firstname-lastname': {'correct': 1047,
+                        'counts': '2368',
+                        'incorrect': 1321,
+                        'perc': 0.4421452702702703},
+ 'geo-name-location': {'correct': 21,
+                       'counts': '168',
+                       'incorrect': 147,
+                       'perc': 0.125},
+ 'houses-seats': {'correct': 9, 'counts': '30', 'incorrect': 21, 'perc': 0.3},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 2,
+                      'counts': '24',
+                      'incorrect': 22,
+                      'perc': 0.08333333333333333},
+ 'total': {'correct': 1094,
+           'counts': '2848',
+           'incorrect': 1754,
+           'perc': 0.38412921348314605}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_500_text8_3                &  44.21 & 5.56 & 0.0 & 12.5 & 30.0 & 38.41  \\ 
+
+
+**** Model: soiaf4books_corefed_500_text8_4  binary?: False
+**** Model: soiaf4books_corefed_500_text8_4  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 3,
+                        'counts': '42',
+                        'incorrect': 39,
+                        'perc': 0.07142857142857142},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 14,
+                  'counts': '180',
+                  'incorrect': 166,
+                  'perc': 0.07777777777777778},
+ 'firstname-lastname': {'correct': 140,
+                        'counts': '2368',
+                        'incorrect': 2228,
+                        'perc': 0.05912162162162162},
+ 'geo-name-location': {'correct': 22,
+                       'counts': '168',
+                       'incorrect': 146,
+                       'perc': 0.13095238095238096},
+ 'houses-seats': {'correct': 12, 'counts': '30', 'incorrect': 18, 'perc': 0.4},
+ 'husband-wife': {'correct': 4,
+                  'counts': '30',
+                  'incorrect': 26,
+                  'perc': 0.13333333333333333},
+ 'name-animal-type': {'correct': 2,
+                      'counts': '24',
+                      'incorrect': 22,
+                      'perc': 0.08333333333333333},
+ 'total': {'correct': 197,
+           'counts': '2848',
+           'incorrect': 2651,
+           'perc': 0.06917134831460674}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_500_text8_4                &  5.91 & 7.78 & 13.33 & 13.1 & 40.0 & 6.92  \\ 
+
+
+**** Model: soiaf4books_preprocessed_fasttext  binary?: False
+**** Model: soiaf4books_preprocessed_fasttext  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 1,
+                        'counts': '42',
+                        'incorrect': 41,
+                        'perc': 0.023809523809523808},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 1,
+                  'counts': '180',
+                  'incorrect': 179,
+                  'perc': 0.005555555555555556},
+ 'firstname-lastname': {'correct': 23,
+                        'counts': '2368',
+                        'incorrect': 2345,
+                        'perc': 0.009712837837837838},
+ 'geo-name-location': {'correct': 6,
+                       'counts': '168',
+                       'incorrect': 162,
+                       'perc': 0.03571428571428571},
+ 'houses-seats': {'correct': 1,
+                  'counts': '30',
+                  'incorrect': 29,
+                  'perc': 0.03333333333333333},
+ 'husband-wife': {'correct': 1,
+                  'counts': '30',
+                  'incorrect': 29,
+                  'perc': 0.03333333333333333},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 33,
+           'counts': '2848',
+           'incorrect': 2815,
+           'perc': 0.011587078651685394}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_preprocessed_fasttext                &  0.97 & 0.56 & 3.33 & 3.57 & 3.33 & 1.16  \\ 
+
+
+**** Model: soiaf4books_preprocessed_fasttext_1  binary?: False
+**** Model: soiaf4books_preprocessed_fasttext_1  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 2,
+                        'counts': '42',
+                        'incorrect': 40,
+                        'perc': 0.047619047619047616},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 2,
+                  'counts': '180',
+                  'incorrect': 178,
+                  'perc': 0.011111111111111112},
+ 'firstname-lastname': {'correct': 768,
+                        'counts': '2368',
+                        'incorrect': 1600,
+                        'perc': 0.32432432432432434},
+ 'geo-name-location': {'correct': 18,
+                       'counts': '168',
+                       'incorrect': 150,
+                       'perc': 0.10714285714285714},
+ 'houses-seats': {'correct': 13,
+                  'counts': '30',
+                  'incorrect': 17,
+                  'perc': 0.43333333333333335},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 2,
+                      'counts': '24',
+                      'incorrect': 22,
+                      'perc': 0.08333333333333333},
+ 'total': {'correct': 805,
+           'counts': '2848',
+           'incorrect': 2043,
+           'perc': 0.28265449438202245}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_preprocessed_fasttext_1                &  32.43 & 1.11 & 0.0 & 10.71 & 43.33 & 28.27  \\ 
+
+
+**** Model: soiaf4books_preprocessed_fasttext_2  binary?: False
+**** Model: soiaf4books_preprocessed_fasttext_2  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 7,
+                        'counts': '42',
+                        'incorrect': 35,
+                        'perc': 0.16666666666666666},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 2,
+                  'counts': '180',
+                  'incorrect': 178,
+                  'perc': 0.011111111111111112},
+ 'firstname-lastname': {'correct': 841,
+                        'counts': '2368',
+                        'incorrect': 1527,
+                        'perc': 0.35515202702702703},
+ 'geo-name-location': {'correct': 23,
+                       'counts': '168',
+                       'incorrect': 145,
+                       'perc': 0.13690476190476192},
+ 'houses-seats': {'correct': 11,
+                  'counts': '30',
+                  'incorrect': 19,
+                  'perc': 0.36666666666666664},
+ 'husband-wife': {'correct': 1,
+                  'counts': '30',
+                  'incorrect': 29,
+                  'perc': 0.03333333333333333},
+ 'name-animal-type': {'correct': 2,
+                      'counts': '24',
+                      'incorrect': 22,
+                      'perc': 0.08333333333333333},
+ 'total': {'correct': 887,
+           'counts': '2848',
+           'incorrect': 1961,
+           'perc': 0.31144662921348315}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_preprocessed_fasttext_2                &  35.52 & 1.11 & 3.33 & 13.69 & 36.67 & 31.14  \\ 
+
+
+**** Model: soiaf4books_corefed_1_fasttext  binary?: False
+**** Model: soiaf4books_corefed_1_fasttext  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 1,
+                        'counts': '42',
+                        'incorrect': 41,
+                        'perc': 0.023809523809523808},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 6,
+                  'counts': '180',
+                  'incorrect': 174,
+                  'perc': 0.03333333333333333},
+ 'firstname-lastname': {'correct': 123,
+                        'counts': '2368',
+                        'incorrect': 2245,
+                        'perc': 0.051942567567567564},
+ 'geo-name-location': {'correct': 6,
+                       'counts': '142',
+                       'incorrect': 136,
+                       'perc': 0.04225352112676056},
+ 'houses-seats': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 2,
+                      'counts': '24',
+                      'incorrect': 22,
+                      'perc': 0.08333333333333333},
+ 'total': {'correct': 138,
+           'counts': '2822',
+           'incorrect': 2684,
+           'perc': 0.04890148830616584}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 142 & 30 & 2822  \\ \hline 
+soiaf4books_corefed_1_fasttext                &  5.19 & 3.33 & 0.0 & 4.23 & 0.0 & 4.89  \\ 
+
+
+**** Model: soiaf4books_corefed_1_fasttext_1  binary?: False
+**** Model: soiaf4books_corefed_1_fasttext_1  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 0, 'counts': '180', 'incorrect': 180, 'perc': 0.0},
+ 'firstname-lastname': {'correct': 951,
+                        'counts': '2368',
+                        'incorrect': 1417,
+                        'perc': 0.4016047297297297},
+ 'geo-name-location': {'correct': 3,
+                       'counts': '142',
+                       'incorrect': 139,
+                       'perc': 0.02112676056338028},
+ 'houses-seats': {'correct': 5,
+                  'counts': '30',
+                  'incorrect': 25,
+                  'perc': 0.16666666666666666},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 959,
+           'counts': '2822',
+           'incorrect': 1863,
+           'perc': 0.33982990786676115}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 142 & 30 & 2822  \\ \hline 
+soiaf4books_corefed_1_fasttext_1                &  40.16 & 0.0 & 0.0 & 2.11 & 16.67 & 33.98  \\ 
+
+
+**** Model: soiaf4books_corefed_1_fasttext_2  binary?: False
+**** Model: soiaf4books_corefed_1_fasttext_2  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 3,
+                        'counts': '42',
+                        'incorrect': 39,
+                        'perc': 0.07142857142857142},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 0, 'counts': '180', 'incorrect': 180, 'perc': 0.0},
+ 'firstname-lastname': {'correct': 974,
+                        'counts': '2368',
+                        'incorrect': 1394,
+                        'perc': 0.41131756756756754},
+ 'geo-name-location': {'correct': 2,
+                       'counts': '142',
+                       'incorrect': 140,
+                       'perc': 0.014084507042253521},
+ 'houses-seats': {'correct': 7,
+                  'counts': '30',
+                  'incorrect': 23,
+                  'perc': 0.23333333333333334},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 986,
+           'counts': '2822',
+           'incorrect': 1836,
+           'perc': 0.3493975903614458}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 142 & 30 & 2822  \\ \hline 
+soiaf4books_corefed_1_fasttext_2                &  41.13 & 0.0 & 0.0 & 1.41 & 23.33 & 34.94  \\ 
+
+
+**** Model: soiaf4books_corefed_4_fasttext  binary?: False
+**** Model: soiaf4books_corefed_4_fasttext  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 1,
+                        'counts': '42',
+                        'incorrect': 41,
+                        'perc': 0.023809523809523808},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 4,
+                  'counts': '180',
+                  'incorrect': 176,
+                  'perc': 0.022222222222222223},
+ 'firstname-lastname': {'correct': 102,
+                        'counts': '2368',
+                        'incorrect': 2266,
+                        'perc': 0.04307432432432432},
+ 'geo-name-location': {'correct': 1,
+                       'counts': '168',
+                       'incorrect': 167,
+                       'perc': 0.005952380952380952},
+ 'houses-seats': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 1,
+                      'counts': '24',
+                      'incorrect': 23,
+                      'perc': 0.041666666666666664},
+ 'total': {'correct': 109,
+           'counts': '2848',
+           'incorrect': 2739,
+           'perc': 0.03827247191011236}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_4_fasttext                &  4.31 & 2.22 & 0.0 & 0.6 & 0.0 & 3.83  \\ 
+
+
+**** Model: soiaf4books_corefed_4_fasttext_1  binary?: False
+**** Model: soiaf4books_corefed_4_fasttext_1  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 4,
+                        'counts': '42',
+                        'incorrect': 38,
+                        'perc': 0.09523809523809523},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 0, 'counts': '180', 'incorrect': 180, 'perc': 0.0},
+ 'firstname-lastname': {'correct': 842,
+                        'counts': '2368',
+                        'incorrect': 1526,
+                        'perc': 0.35557432432432434},
+ 'geo-name-location': {'correct': 9,
+                       'counts': '168',
+                       'incorrect': 159,
+                       'perc': 0.05357142857142857},
+ 'houses-seats': {'correct': 9, 'counts': '30', 'incorrect': 21, 'perc': 0.3},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 1,
+                      'counts': '24',
+                      'incorrect': 23,
+                      'perc': 0.041666666666666664},
+ 'total': {'correct': 865,
+           'counts': '2848',
+           'incorrect': 1983,
+           'perc': 0.30372191011235955}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_4_fasttext_1                &  35.56 & 0.0 & 0.0 & 5.36 & 30.0 & 30.37  \\ 
+
+
+**** Model: soiaf4books_corefed_4_fasttext_2  binary?: False
+**** Model: soiaf4books_corefed_4_fasttext_2  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 5,
+                        'counts': '42',
+                        'incorrect': 37,
+                        'perc': 0.11904761904761904},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 2,
+                  'counts': '180',
+                  'incorrect': 178,
+                  'perc': 0.011111111111111112},
+ 'firstname-lastname': {'correct': 899,
+                        'counts': '2368',
+                        'incorrect': 1469,
+                        'perc': 0.3796452702702703},
+ 'geo-name-location': {'correct': 8,
+                       'counts': '168',
+                       'incorrect': 160,
+                       'perc': 0.047619047619047616},
+ 'houses-seats': {'correct': 6, 'counts': '30', 'incorrect': 24, 'perc': 0.2},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 3,
+                      'counts': '24',
+                      'incorrect': 21,
+                      'perc': 0.125},
+ 'total': {'correct': 923,
+           'counts': '2848',
+           'incorrect': 1925,
+           'perc': 0.3240870786516854}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_4_fasttext_2                &  37.96 & 1.11 & 0.0 & 4.76 & 20.0 & 32.41  \\ 
+
+
+**** Model: soiaf4books_corefed_50_fasttext  binary?: False
+**** Model: soiaf4books_corefed_50_fasttext  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 5,
+                  'counts': '180',
+                  'incorrect': 175,
+                  'perc': 0.027777777777777776},
+ 'firstname-lastname': {'correct': 105,
+                        'counts': '2368',
+                        'incorrect': 2263,
+                        'perc': 0.044341216216216214},
+ 'geo-name-location': {'correct': 2,
+                       'counts': '168',
+                       'incorrect': 166,
+                       'perc': 0.011904761904761904},
+ 'houses-seats': {'correct': 1,
+                  'counts': '30',
+                  'incorrect': 29,
+                  'perc': 0.03333333333333333},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 113,
+           'counts': '2848',
+           'incorrect': 2735,
+           'perc': 0.03967696629213483}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_50_fasttext                &  4.43 & 2.78 & 0.0 & 1.19 & 3.33 & 3.97  \\ 
+
+
+**** Model: soiaf4books_corefed_50_fasttext_1  binary?: False
+**** Model: soiaf4books_corefed_50_fasttext_1  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 2,
+                        'counts': '42',
+                        'incorrect': 40,
+                        'perc': 0.047619047619047616},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 1,
+                  'counts': '180',
+                  'incorrect': 179,
+                  'perc': 0.005555555555555556},
+ 'firstname-lastname': {'correct': 924,
+                        'counts': '2368',
+                        'incorrect': 1444,
+                        'perc': 0.3902027027027027},
+ 'geo-name-location': {'correct': 3,
+                       'counts': '168',
+                       'incorrect': 165,
+                       'perc': 0.017857142857142856},
+ 'houses-seats': {'correct': 6, 'counts': '30', 'incorrect': 24, 'perc': 0.2},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 2,
+                      'counts': '24',
+                      'incorrect': 22,
+                      'perc': 0.08333333333333333},
+ 'total': {'correct': 939,
+           'counts': '2848',
+           'incorrect': 1909,
+           'perc': 0.3297050561797753}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_50_fasttext_1                &  39.02 & 0.56 & 0.0 & 1.79 & 20.0 & 32.97  \\ 
+
+
+**** Model: soiaf4books_corefed_50_fasttext_2  binary?: False
+**** Model: soiaf4books_corefed_50_fasttext_2  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 6,
+                        'counts': '42',
+                        'incorrect': 36,
+                        'perc': 0.14285714285714285},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 1,
+                  'counts': '180',
+                  'incorrect': 179,
+                  'perc': 0.005555555555555556},
+ 'firstname-lastname': {'correct': 947,
+                        'counts': '2368',
+                        'incorrect': 1421,
+                        'perc': 0.3999155405405405},
+ 'geo-name-location': {'correct': 3,
+                       'counts': '168',
+                       'incorrect': 165,
+                       'perc': 0.017857142857142856},
+ 'houses-seats': {'correct': 10,
+                  'counts': '30',
+                  'incorrect': 20,
+                  'perc': 0.3333333333333333},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 1,
+                      'counts': '24',
+                      'incorrect': 23,
+                      'perc': 0.041666666666666664},
+ 'total': {'correct': 968,
+           'counts': '2848',
+           'incorrect': 1880,
+           'perc': 0.3398876404494382}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_50_fasttext_2                &  39.99 & 0.56 & 0.0 & 1.79 & 33.33 & 33.99  \\ 
+
+
+**** Model: soiaf4books_corefed_500_fasttext  binary?: False
+**** Model: soiaf4books_corefed_500_fasttext  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 1,
+                        'counts': '42',
+                        'incorrect': 41,
+                        'perc': 0.023809523809523808},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 3,
+                  'counts': '180',
+                  'incorrect': 177,
+                  'perc': 0.016666666666666666},
+ 'firstname-lastname': {'correct': 90,
+                        'counts': '2368',
+                        'incorrect': 2278,
+                        'perc': 0.03800675675675676},
+ 'geo-name-location': {'correct': 1,
+                       'counts': '168',
+                       'incorrect': 167,
+                       'perc': 0.005952380952380952},
+ 'houses-seats': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 95,
+           'counts': '2848',
+           'incorrect': 2753,
+           'perc': 0.033356741573033706}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_500_fasttext                &  3.8 & 1.67 & 0.0 & 0.6 & 0.0 & 3.34  \\ 
+
+
+**** Model: soiaf4books_corefed_500_fasttext_1  binary?: False
+**** Model: soiaf4books_corefed_500_fasttext_1  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 4,
+                        'counts': '42',
+                        'incorrect': 38,
+                        'perc': 0.09523809523809523},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 2,
+                  'counts': '180',
+                  'incorrect': 178,
+                  'perc': 0.011111111111111112},
+ 'firstname-lastname': {'correct': 820,
+                        'counts': '2368',
+                        'incorrect': 1548,
+                        'perc': 0.34628378378378377},
+ 'geo-name-location': {'correct': 10,
+                       'counts': '168',
+                       'incorrect': 158,
+                       'perc': 0.05952380952380952},
+ 'houses-seats': {'correct': 9, 'counts': '30', 'incorrect': 21, 'perc': 0.3},
+ 'husband-wife': {'correct': 1,
+                  'counts': '30',
+                  'incorrect': 29,
+                  'perc': 0.03333333333333333},
+ 'name-animal-type': {'correct': 2,
+                      'counts': '24',
+                      'incorrect': 22,
+                      'perc': 0.08333333333333333},
+ 'total': {'correct': 849,
+           'counts': '2848',
+           'incorrect': 1999,
+           'perc': 0.29810393258426965}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_500_fasttext_1                &  34.63 & 1.11 & 3.33 & 5.95 & 30.0 & 29.81  \\ 
+
+
+**** Model: soiaf4books_corefed_500_fasttext_2  binary?: False
+**** Model: soiaf4books_corefed_500_fasttext_2  LOADED
+
+
+
+	Section: firstname-lastname
+
+	Section: child-father
+
+	Section: bastard-child-father
+
+	Section: husband-wife
+
+	Section: geo-name-location
+
+	Section: houses-seats
+
+	Section: name-animal-type
+
+	Section: Sigil_animal-house
+
+	Section: total
+{'Sigil_animal-house': {'correct': 4,
+                        'counts': '42',
+                        'incorrect': 38,
+                        'perc': 0.09523809523809523},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 4,
+                  'counts': '180',
+                  'incorrect': 176,
+                  'perc': 0.022222222222222223},
+ 'firstname-lastname': {'correct': 862,
+                        'counts': '2368',
+                        'incorrect': 1506,
+                        'perc': 0.3640202702702703},
+ 'geo-name-location': {'correct': 7,
+                       'counts': '168',
+                       'incorrect': 161,
+                       'perc': 0.041666666666666664},
+ 'houses-seats': {'correct': 10,
+                  'counts': '30',
+                  'incorrect': 20,
+                  'perc': 0.3333333333333333},
+ 'husband-wife': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'name-animal-type': {'correct': 1,
+                      'counts': '24',
+                      'incorrect': 23,
+                      'perc': 0.041666666666666664},
+ 'total': {'correct': 889,
+           'counts': '2848',
+           'incorrect': 1959,
+           'perc': 0.3121488764044944}}
+Number of sections: 8
+Number of tasks:       & 2368 & 180 & 30 & 168 & 30 & 2848  \\ \hline 
+soiaf4books_corefed_500_fasttext_2                &  36.4 & 2.22 & 0.0 & 4.17 & 33.33 & 31.21  \\ 
