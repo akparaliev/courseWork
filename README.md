@@ -1,4 +1,16 @@
-# courseWork
+# Potential paper title 
+A Case Study of Modern Coreference Resolution and its Evaluation with Datasets in the Digital Humanties Domain
+# Basic Idea
+apply co-ref resolution to ASOIF and HP books -- and study various effects
+# Based on this repo
+https://github.com/gwohlgen/digitalhumanities_dataset_and_eval
+
+# project structure
+- results folder contains results for doesn't match and analogies evaluation for all 80 models
+- tmp folder contains 80 models and files with preprocessed and corefed text
+- milestone-one.py script for processing text files and generating model
+- coref_gold_standard.py script for calculating B3 metric
+
 ## milestone-one.py
 ### 3 functions:
 #### preprocessFile(filePath, outputFilePath)
