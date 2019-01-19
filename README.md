@@ -15,7 +15,13 @@ will convert the preprocessed text into the Word2vec or Fast text format model. 
 - model saving
 - statistics gathering
 ### Statistical Analysis
-- achieved results and assessment https://docs.google.com/spreadsheets/d/14hkjaUCk6k9vpKR2vDQGY39noIUAK24ks50MA6f6gLA/edit#gid=668610076-achieved 
+- ![does not match asessment table](https://github.com/akparaliev/courseWork/tree/master/images/d`tmtch.png)
+- ![corpus size asessment table](https://github.com/akparaliev/courseWork/tree/master/images/corpus_size.jpg)
+- ![frequency check asessment table](https://github.com/akparaliev/courseWork/tree/master/images/check_freq.jpg)
+- ![b3_metrics asessment table](https://github.com/akparaliev/courseWork/tree/master/images/b3_metrics.jpg)
+- ![analogies asessment table](https://github.com/akparaliev/courseWork/tree/master/images/analogies.jpg)
+
+
 # project structure
 - folder results contains assessment for doesn't match and analogies evaluation for 80 models
 - tmp folder contains 80 models and files with preprocessed and corefed text
