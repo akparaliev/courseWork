@@ -19,7 +19,16 @@ will convert the preprocessed text into the Word2vec or Fast text format model.
 - folder results contains assessment for doesn't match and analogies evaluation for 80 models
 - tmp folder contains 80 models and files with preprocessed and corefed text
 - milestone-one.py script processes text files and generates models
-- coref_gold_standard.py script for calculating B3 metric, to determine whether the mentioned pairs are coreferent 
+- coref_gold_standard.py script for calculating B3 metric, to determine whether the mentioned pairs are coreferent
+
+### Requirements
+- Python 3
+- Nltk
+- Spacy
+- NeuralCoref
+- Gensim
+- NumPy
+
 
 ## milestone-one.py
 ### 3 functions:
