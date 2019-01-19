@@ -8,10 +8,12 @@ will convert the preprocessed text into the Word2vec or Fast text format model.
 # Project Steps
 - splitting ASOIF and HP into paragraphs and preprocess them
 - pronouns replacement
-- statistics gathering
+- train word embeddings models 
+ https://github.com/gwohlgen/digitalhumanities_dataset_and_eval
+- model saving
+- Evaluation with doesnt_match_evaluation.py and analogies_evaluation.py scripts
 - model saving
 
-https://github.com/gwohlgen/digitalhumanities_dataset_and_eval
 
 # project structure
 - results folder contains results for doesn't match and analogies evaluation for all 80 models
