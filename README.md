@@ -13,7 +13,7 @@ will convert the preprocessed text into the Word2vec or Fast text format model.
 - model saving
 - Evaluation with doesnt_match_evaluation.py and analogies_evaluation.py scripts
 - model saving
-
+- statistics gathering
 
 # project structure
 - results folder contains results for doesn't match and analogies evaluation for all 80 models
