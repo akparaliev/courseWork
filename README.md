@@ -6,7 +6,10 @@ the programm will detect a pronoun in a corpus and replace it with a related nam
 will convert the preprocessed text into the Word2vec or Fast text format model. 
 
 # Project Steps
-
+- splitting ASOIF and HP into paragraphs and preprocess them
+- pronouns replacement
+- statistics gathering
+- model saving
 
 https://github.com/gwohlgen/digitalhumanities_dataset_and_eval
 
