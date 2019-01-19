@@ -1,9 +1,9 @@
 # Project Name 
 Coreference Resolution NLP  
-# Project Goal
+# Project Goals
 The task of the project is to find all expressions that refer to the same entity in a text. In other words 
 the programm will detect a pronoun in a corpus and replace it with a related name. Futhermore, the next step 
-will convert the preprocessed text into the Word2vec or Fast text format model. Evaluate the results.  
+will convert the preprocessed text into the Word2vec or Fast text format model. Afterwards evaluate the results. https://docs.google.com/spreadsheets/d/14hkjaUCk6k9vpKR2vDQGY39noIUAK24ks50MA6f6gLA/edit#gid=668610076-achieved 
 
 # Project Steps
 - splitting ASOIF and HP into paragraphs and preprocess them
@@ -14,7 +14,8 @@ will convert the preprocessed text into the Word2vec or Fast text format model. 
 - Evaluation with doesnt_match_evaluation.py and analogies_evaluation.py scripts
 - model saving
 - statistics gathering
-
+### Statistical Analysis
+- achieved results and assessment https://docs.google.com/spreadsheets/d/14hkjaUCk6k9vpKR2vDQGY39noIUAK24ks50MA6f6gLA/edit#gid=668610076-achieved 
 # project structure
 - folder results contains assessment for doesn't match and analogies evaluation for 80 models
 - tmp folder contains 80 models and files with preprocessed and corefed text
@@ -62,14 +63,6 @@ usage: trainFastTextAndSave(BOOK+ '_preprocessed.txt', BOOK + '_preprocessed_fas
    - run executeParagraph(paragraph, gold_clusters) to see the results
 
 
-## coreNlp.py
-### nlp server starting or use this link https://stanfordnlp.github.io/CoreNLP/corenlp-server.html
-- copy https://drive.google.com/file/d/1N5W2fRs2fBeppTyk8aqM72NZqfEVf2Kh/view?usp=drive_web this archive to dockerCorenlp folder
-- in console go to dockerCorenlp folder and run all commands from Readme.md in this folder
-- server will preload tokenize,ssplit,pos,depparse,ner,lemma,coref annotators that are needed for coref resolution
-- server has timeout 15000000ms
 
-#### executeParagraphPyNlp(par)
-- par - text for coref
 
 
