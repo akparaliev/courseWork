@@ -1,8 +1,13 @@
-# Potential paper title 
-A Case Study of Modern Coreference Resolution and its Evaluation with Datasets in the Digital Humanties Domain
-# Basic Idea
-apply co-ref resolution to ASOIF and HP books -- and study various effects
-# Based on this repo
+# Project Name 
+Coreference Resolution NLP  
+# Project Goal
+The task of the project is to find all expressions that refer to the same entity in a text. In other words 
+the programm will detect a pronoun in a corpus and replace it with a related name. Futhermore, the next step 
+will convert the preprocessed text into the Word2vec or Fast text format model. 
+
+# Project Steps
+
+
 https://github.com/gwohlgen/digitalhumanities_dataset_and_eval
 
 # project structure
