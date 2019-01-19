@@ -16,10 +16,10 @@ will convert the preprocessed text into the Word2vec or Fast text format model.
 - statistics gathering
 
 # project structure
-- results folder contains results for doesn't match and analogies evaluation for all 80 models
+- folder results contains assessment for doesn't match and analogies evaluation for 80 models
 - tmp folder contains 80 models and files with preprocessed and corefed text
-- milestone-one.py script for processing text files and generating model
-- coref_gold_standard.py script for calculating B3 metric
+- milestone-one.py script processes text files and generates models
+- coref_gold_standard.py script for calculating B3 metric, to determine whether the mentioned pairs are coreferent 
 
 ## milestone-one.py
 ### 3 functions:
