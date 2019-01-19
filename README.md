@@ -3,7 +3,7 @@ Coreference Resolution NLP
 # Project Goal
 The task of the project is to find all expressions that refer to the same entity in a text. In other words 
 the programm will detect a pronoun in a corpus and replace it with a related name. Futhermore, the next step 
-will convert the preprocessed text into the Word2vec or Fast text format model. 
+will convert the preprocessed text into the Word2vec or Fast text format model. Evaluate the results.  
 
 # Project Steps
 - splitting ASOIF and HP into paragraphs and preprocess them
