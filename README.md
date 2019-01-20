@@ -24,7 +24,15 @@ will convert the preprocessed text into the Word2vec or Fast text format model. 
    - does not match diagramm ASOIF
     <img src="/images/6PAatSy3mBU.jpg" width="700" height="400"  alt="does not match table"/>
     
-    
+   - analogies table 
+   <img src="/images/analogies.jpg" alt="analogies"/>
+   
+   - analogies HP chart
+   <img src="/images/LdsxuCMsfnk.jpg" width="700" height="400" alt="corpus size"/>
+   
+   - analogies ASOIF chart
+   <img src="/images/o8QgVpfWO-w.jpg" width="700" height="400" alt="corpus size"/>
+   
    - corpus size before and after coreference resolution table
    <img src="/images/corpus_size.jpg"  alt="corpus size"/>
    
@@ -40,14 +48,6 @@ will convert the preprocessed text into the Word2vec or Fast text format model. 
    - b3 metrics table  Zzt6uGUIJYU.jpg
    <img src="/images/b3_metrics.jpg" alt="b3_metrics"/> 
    
-   - analogies table 
-   <img src="/images/analogies.jpg" alt="analogies"/>
-   
-   - analogies HP chart
-   <img src="/images/LdsxuCMsfnk.jpg" width="700" height="400" alt="corpus size"/>
-   
-   - analogies ASOIF chart
-   <img src="/images/o8QgVpfWO-w.jpg" width="700" height="400" alt="corpus size"/>
     
 #### Main Findings 
 - as it seen from 'does not match table and does not match chart' the best accuracy for that task is to choose paragraph size = 500
