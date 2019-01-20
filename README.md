@@ -28,13 +28,13 @@ will convert the preprocessed text into the Word2vec or Fast text format model. 
    - corpus size before and after coreference resolution table
    <img src="/images/corpus_size.jpg"  alt="corpus size"/>
    
-   - corpus size before and after coreference resolution diagramm
+   - corpus size before and after coreference resolution chart
    <img src="/images/Zzt6uGUIJYU.jpg" width="700" height="400" alt="corpus size"/>
    
    - check frequnecy table 
    <img src="/images/check_freq.jpg" alt="check_freq"/>
    
-   - check frequency diagramm
+   - check frequency chart
    <img src="/images/mQ5ijx7ZifM.jpg" width="700" height="400" alt="corpus size"/>
    
    - b3 metrics table  Zzt6uGUIJYU.jpg
@@ -43,17 +43,27 @@ will convert the preprocessed text into the Word2vec or Fast text format model. 
    - analogies table 
    <img src="/images/analogies.jpg" alt="analogies"/>
    
-   - analogies HP diagramm 
+   - analogies HP chart
    <img src="/images/o8QgVpfWO-w.jpg" width="700" height="400" alt="corpus size"/>
    
-   - analogies ASOIF diagramm 
+   - analogies ASOIF chart
    <img src="/images/o8QgVpfWO-w.jpg" width="700" height="400" alt="corpus size"/>
     
 #### Main Findings 
-- as it seen from 'does not match table and does not match diagramm' the best accuracy for that task is to choose paragraph size = 50
-- from the 'analogies table and diagramm' the best option for accuracy to take paragraph size = 500
+- as it seen from 'does not match table and does not match chart' the best accuracy for that task is to choose paragraph size = 500
+- from the 'analogies table and chart' the best option for accuracy to take paragraph size = 50
 - coreferencing resolution increases the size of corpus, but not dramatically 
 - coreferencing resolution improves the acccuracy in both 'does not match' and 'analogies cases', but just for a tiny percentage 
+- coref resolution depends on a text division, in order to achieve good percentage of accuracy it is better to choose reccomended settings as it was mentioned above
+- Spacy makes a bunch of errors related to wrong indentification and pronoun replacement with frequence of 18%
+- wrong recognition of the meaning of a text and incorrect with the nearest mention
+- Wrong sex determination and incorrect recognition of inanimated pronouns 
+
+all what is mentioned you can find following the link 
+https://docs.google.com/spreadsheets/d/14hkjaUCk6k9vpKR2vDQGY39noIUAK24ks50MA6f6gLA/edit#gid=668610076
+
+
+
 
 # project structure
 - folder results contains assessment for doesn't match and analogies evaluation for 80 models
