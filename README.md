@@ -106,12 +106,24 @@ usage: trainFastTextAndSave(BOOK+ '_preprocessed.txt', BOOK + '_preprocessed_fas
 - and run scripts from src folder
 
 ## coref_gold_standard.py
-- usage:
-   - variable paragraph = "Hermione opened her mouth to argue, but at that moment Crookshanks leapt lightly onto her lap. A large, dead spider was dangling from his mouth."; - text
-   - variable gold_clusters = [{'Hermione': {'Hermione ': [0], 'her': [2, 15]}, 'Crookshanks': {'Crookshanks': [11], 'his': [26]}  }]; - mentions and their positions
-   - run executeParagraph(paragraph, gold_clusters) to see the results
+- variable paragraph = "Hermione opened her mouth to argue, but at that moment Crookshanks leapt lightly onto her lap. A large, dead spider was dangling from his mouth."; - text
+- variable gold_clusters = [{'Hermione': {'Hermione ': [0], 'her': [2, 15]}, 'Crookshanks': {'Crookshanks': [11], 'his': [26]}  }]; - mentions and their positions
+- run executeParagraph(paragraph, gold_clusters) to see the results
 
+# Usage
 
-
+- First, we should preprocess file, then evaluate coref resolution and train models 
+```
+BOOK = 'tmp/hp'
+preprocessFile(BOOK + '.txt', BOOK+'_preprocessed.txt')
+executeCoref(500, BOOK+'_preprocessed.txt', BOOK+'_corefed.txt')
+trainText8CorpusModelAndSave(BOOK + '_corefed.txt', BOOK + '_corefed_text8.model', size=300, negative=15, sg=1, hs=1, iter=15, window=12)
+trainFastTextAndSave(BOOK + '_corefed.txt', BOOK + '_corefed_fasttext.model', sg=1, hs=1, size=300, iter=15, window=12, negative=0)
+```
+- there will be two models: hp_corefed_text8.model and hp_corefed_fasttext.model
+- put this models to config.py in https://github.com/gwohlgen/digitalhumanities_dataset_and_eval as described in this repo
+- run 'python analogies_evaluation.py hp'  and 'python doesnt_match_evaluation.py hp' commands in your terminal
+- there will be analogies and does not match results in terminal 
+ 
 
 
