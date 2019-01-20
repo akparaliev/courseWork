@@ -44,7 +44,7 @@ will convert the preprocessed text into the Word2vec or Fast text format model. 
    <img src="/images/analogies.jpg" alt="analogies"/>
    
    - analogies HP chart
-   <img src="/images/o8QgVpfWO-w.jpg" width="700" height="400" alt="corpus size"/>
+   <img src="/images/LdsxuCMsfnk.jpg" width="700" height="400" alt="corpus size"/>
    
    - analogies ASOIF chart
    <img src="/images/o8QgVpfWO-w.jpg" width="700" height="400" alt="corpus size"/>
