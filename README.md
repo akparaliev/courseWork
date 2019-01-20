@@ -49,6 +49,11 @@ will convert the preprocessed text into the Word2vec or Fast text format model. 
    - analogies ASOIF diagramm 
    <img src="/images/o8QgVpfWO-w.jpg" width="700" height="400" alt="corpus size"/>
     
+#### Main Findings 
+- as it seen from 'does not match table and does not match diagramm' the best accuracy for that task is to choose paragraph size = 50
+- from the 'analogies table and diagramm' the best option for accuracy to take paragraph size = 500
+- coreferencing resolution increases the size of corpus, but not dramatically 
+- coreferencing resolution improves the acccuracy in both 'does not match' and 'analogies cases', but just for a tiny percentage 
 
 # project structure
 - folder results contains assessment for doesn't match and analogies evaluation for 80 models
