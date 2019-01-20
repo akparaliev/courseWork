@@ -21,7 +21,6 @@ will convert the preprocessed text into the Word2vec or Fast text format model. 
 - ![b3_metrics asessment table](https://github.com/akparaliev/courseWork/tree/master/images/b3_metrics.jpg)
 - ![analogies asessment table](https://github.com/akparaliev/courseWork/tree/master/images/analogies.jpg)
 
-
 # project structure
 - folder results contains assessment for doesn't match and analogies evaluation for 80 models
 - tmp folder contains 80 models and files with preprocessed and corefed text
