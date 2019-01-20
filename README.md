@@ -15,6 +15,40 @@ will convert the preprocessed text into the Word2vec or Fast text format model. 
 - model saving
 - statistics gathering
 ### Statistical Analysis
+   - does not match table
+   <img src="/images/d`tmtch.png" alt="does not match table"/>
+   
+   - does not match diagramm hp 
+   <img src="/images/5e1Go644cmI.jpg" width="700" height="400"  alt="does not match table"/>
+   
+   - does not match diagramm ASOIF
+    <img src="/images/6PAatSy3mBU.jpg" width="700" height="400"  alt="does not match table"/>
+    
+    
+   - corpus size before and after coreference resolution table
+   <img src="/images/corpus_size.jpg"  alt="corpus size"/>
+   
+   - corpus size before and after coreference resolution diagramm
+   <img src="/images/Zzt6uGUIJYU.jpg" width="700" height="400" alt="corpus size"/>
+   
+   - check frequnecy table 
+   <img src="/images/check_freq.jpg" alt="check_freq"/>
+   
+   - check frequency diagramm
+   <img src="/images/mQ5ijx7ZifM.jpg" width="700" height="400" alt="corpus size"/>
+   
+   - b3 metrics table  Zzt6uGUIJYU.jpg
+   <img src="/images/b3_metrics.jpg" alt="b3_metrics"/> 
+   
+   - analogies table 
+   <img src="/images/analogies.jpg" alt="analogies"/>
+   
+   - analogies HP diagramm 
+   <img src="/images/o8QgVpfWO-w.jpg" width="700" height="400" alt="corpus size"/>
+   
+   - analogies ASOIF diagramm 
+   <img src="/images/o8QgVpfWO-w.jpg" width="700" height="400" alt="corpus size"/>
+    
 - ![does not match asessment table](https://github.com/akparaliev/courseWork/tree/master/images/d`tmtch.png)
 - ![corpus size asessment table](https://github.com/akparaliev/courseWork/tree/master/images/corpus_size.jpg)
 - ![frequency check asessment table](https://github.com/akparaliev/courseWork/tree/master/images/check_freq.jpg)
